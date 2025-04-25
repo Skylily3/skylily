@@ -12,3 +12,5 @@ int main()
 {
   cout << "Hello, world!" << endl;
 }
+
+// コンパイル g++ -o [実行ファイル名] [ソースコード名]
